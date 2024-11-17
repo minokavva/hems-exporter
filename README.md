@@ -1,5 +1,7 @@
 # hems-exporter
 
+[ブログ記事も見てね](https://minokavva.room4.dev/blog/20231206_advent_calenter_2023_echonet/)
+
 ```
 $ docker build -t hems-exporter .
 
